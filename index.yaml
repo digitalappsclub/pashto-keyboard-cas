@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Android App</title>
+  <title>Pashto Keyboard</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -43,27 +43,21 @@
 <body>
 
 <header>
-  <h1>Welcome to Your Android App</h1>
+  <h1>Welcome to Pashto Keyboard</h1>
 </header>
 
 <div class="container">
   <h2>About Us</h2>
-  <p>Your Android App is designed to...</p>
+  <p>Pashto Keyboard is a keyboard app designed to...</p>
 
-  <h2>Features</h2>
-  <ul>
-    <li>Feature 1</li>
-    <li>Feature 2</li>
-    <li>Feature 3</li>
-  </ul>
   
   <h2>Download</h2>
   <p>Download our app from the Google Play Store:</p>
-  <a href="link-to-your-app" target="_blank"><img src="google-play-badge.png" alt="Google Play Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.pashto.keybaord.newvoicetyping&hl=en&gl=CN" target="_blank"><img src="google-play-badge.png" alt="Google Play Store"></a>
 </div>
 
 <footer>
-  &copy; 2023 Your Android App
+  &copy; 2023 Pashto Keyboard
 </footer>
 
 </body>
